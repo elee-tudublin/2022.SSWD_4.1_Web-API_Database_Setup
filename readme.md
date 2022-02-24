@@ -368,7 +368,7 @@ At this point the database has been created and connected to the application usi
 
 The diagram shows the steps from client's initial request to receiving a response.
 
-![image-20220224120930955](D:\webapps\sswd-2022\2022.SSWD_4.1_Web-API_Database\media\app_client_server.png)
+![image-20220224120930955](./media/app_client_server.png)
 
 
 
